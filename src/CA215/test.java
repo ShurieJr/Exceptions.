@@ -1,2 +1,4 @@
-package CA215;public class test {
+package CA215;
+
+public class test {
 }
